@@ -28,7 +28,6 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [testing-app-practice](https://github.com/Yoshi14-M/testing-app-practice) —  Laravelのテスト機能の実装
 - [debugging-app-practice](https://github.com/Yoshi14-M/debugging-app-practice) — デバックの方法について
 - [self-introduction-practice](https://github.com/Yoshi14-M/self-introduction-practice) — 自己紹介ページ（HTML5）
-- ...（他のリポジトリも同じ要領で並べる）
 
 ## 🌱 これから挑戦したいこと
 
