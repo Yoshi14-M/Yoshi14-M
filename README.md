@@ -37,4 +37,4 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 ## 📫 連絡先・リンク
 
 <!-- 載せたいものだけでOK。全部書く必要はない -->
-- Email: 作成中
+- Email: yoshiaki.matsui.14@gmail.com
