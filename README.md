@@ -13,9 +13,9 @@ PHP / Laravel のバックエンドエンジニアを目指しています。
 | 制作物 | 区分 | 概要 |
 |---|---|---|
 | [TrainingMax](https://github.com/Yoshi14-M/TrainingMax) | 個人開発 | パーソナルトレーナーが利用者のトレーニング記録を入力・共有し、指導を効率化するWebアプリ。オーナー／トレーナー／利用者の役割ごとの認可、推定1RM・推奨重量の算出。テスト789件・カバレッジ98.3% |
-| [attendance-app](https://github.com/Yoshi14-M/attendance-app) | スクール模擬案件 | 従業員の打刻・勤怠修正申請と、管理者による確認・承認・修正を備えた勤怠管理システム。Issue → PR の運用で機能単位に実装 |
-| [bookshelf-app](https://github.com/Yoshi14-M/bookshelf-app) | スクール模擬案件 | 書籍レビューアプリ。Sanctum のトークン認証付き公開 REST API、Google Books API 連携、日次バッチによるリマインダー通知 |
-| [contact-form-app](https://github.com/Yoshi14-M/contact-form-app) | スクール教材 | お問い合わせフォームと管理画面（検索・CSV エクスポート・タグ管理）。REST API による CRUD |
+| [勤怠管理アプリ](https://github.com/Yoshi14-M/attendance-app) | スクール模擬案件 | 従業員の打刻・勤怠修正申請と、管理者による確認・承認・修正を備えた勤怠管理システム。Issue → PR の運用で機能単位に実装 |
+| [書籍レビューアプリ](https://github.com/Yoshi14-M/bookshelf-app) | スクール模擬案件 | 書籍レビューアプリ。Sanctum のトークン認証付き公開 REST API、Google Books API 連携、日次バッチによるリマインダー通知 |
+| [問い合わせフォームアプリ](https://github.com/Yoshi14-M/contact-form-app) | スクール教材 | お問い合わせフォームと管理画面（検索・CSV エクスポート・タグ管理）。REST API による CRUD |
  
 ## 🛠️ 使える技術
  
