@@ -13,10 +13,10 @@ COACHTECH で PHP / Laravel・Docker・REST API 設計を学び（2026年12月�
  
 | 制作物 | 区分 | 概要 |
 |---|---|---|
-| [TrainingMax](https://github.com/Yoshi14-M/TrainingMax)【[デモ](https://trainingmax-demo.onrender.com)】 | 個人開発 | パーソナルトレーナーが利用者のトレーニング記録を入力・共有し、指導を効率化するWebアプリ。オーナー／トレーナー／利用者の役割ごとの認可、推定1RM・推奨重量の算出。要件定義・設計からテストまで一人で担当（テスト789件・カバレッジ98.3%） |
-| [勤怠管理アプリ](https://github.com/Yoshi14-M/attendance-app) | 模擬案件 | 従業員の打刻・勤怠修正申請と、管理者による確認・承認・修正を備えた勤怠管理システム。基本設計書・テーブル仕様書を作成し、Sanctum 認証・Policy 認可付きの公開 REST API、CSV 出力、勤怠統計レポートを実装 |
-| [書籍レビューアプリ](https://github.com/Yoshi14-M/bookshelf-app) | 模擬案件 | 書籍の登録・レビュー・お気に入り・ランキングを備えた書籍レビューアプリ。Sanctum のトークン認証付き公開 REST API、Google Books API 連携、日次バッチによるリマインダー通知 |
-| [お問い合わせフォーム](https://github.com/Yoshi14-M/contact-form-app) | 模擬案件 | お問い合わせフォームと管理画面（検索・CSV エクスポート・タグ管理）。REST API による CRUD |
+| [TrainingMax](https://github.com/Yoshi14-M/TrainingMax#readme)【[デモ](https://trainingmax-demo.onrender.com)】 | 個人開発 | パーソナルトレーナーが利用者のトレーニング記録を入力・共有し、指導を効率化するWebアプリ。オーナー／トレーナー／利用者の役割ごとの認可、推定1RM・推奨重量の算出。要件定義・設計からテストまで一人で担当（テスト789件・カバレッジ98.3%） |
+| [勤怠管理アプリ](https://github.com/Yoshi14-M/attendance-app#readme) | 模擬案件 | 従業員の打刻・勤怠修正申請と、管理者による確認・承認・修正を備えた勤怠管理システム。基本設計書・テーブル仕様書を作成し、Sanctum 認証・Policy 認可付きの公開 REST API、CSV 出力、勤怠統計レポートを実装 |
+| [書籍レビューアプリ](https://github.com/Yoshi14-M/bookshelf-app#readme) | 模擬案件 | 書籍の登録・レビュー・お気に入り・ランキングを備えた書籍レビューアプリ。Sanctum のトークン認証付き公開 REST API、Google Books API 連携、日次バッチによるリマインダー通知 |
+| [お問い合わせフォーム](https://github.com/Yoshi14-M/contact-form-app#readme) | 模擬案件 | お問い合わせフォームと管理画面（検索・CSV エクスポート・タグ管理）。REST API による CRUD |
 | [ポートフォリオサイト](https://github.com/Yoshi14-M/Yoshi14-M.github.io) | 個人開発 | このポートフォリオ。日英切り替え、Google Apps Script によるお問い合わせ受付（記録・通知・受付完了メール） |
  
 ## 🛠️ 使える技術
