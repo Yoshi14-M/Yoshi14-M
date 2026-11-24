@@ -31,7 +31,8 @@ COACHTECH で PHP / Laravel・Docker・REST API 設計を学び（2026年12月�
 バックエンド開発で成果を出しながら、前職で培った業務フローの整理力と関係者との調整力を生かし、要件定義や設計などの上流工程からプロジェクトを推進していきます。
  
 <details>
-<summary>📚 学習用リポジトリ（COACHTECH 教材のハンズオン）</summary>
+<summary> 📚 学習用リポジトリ（COACHTECH 教材のハンズオン）</summary>
+ 
 - [task-crud-practice](https://github.com/Yoshi14-M/task-crud-practice) — タスク管理 API の CRUD（Laravel + REST API）
 - [auth-app-practice](https://github.com/Yoshi14-M/auth-app-practice) — 認証（Laravel Fortify）
 - [authorization-app-practice](https://github.com/Yoshi14-M/authorization-app-practice) — 認可
